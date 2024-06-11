@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "/56gWEXETNWdHwA+TijX64bZQ26Xg/A3C6krVzOBAnDhXOgbul4V7U35ayGfWBaaLo6hTbUClhFZRAh05YfUJQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sinisa.vujanic\\Documents\\Projects\\udemyBlazor\\Tangy\\TangyWeb_Server\\TangyWeb_Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sinisa.vujanic\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\sinisa.vujanic\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\sinisa.vujanic\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\sinisa.vujanic\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.29\\microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}
